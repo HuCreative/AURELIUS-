@@ -1,0 +1,7 @@
+{
+  "name": "Vanguard Men's Premium Fashion",
+  "description": "A high-end e-commerce experience for style-conscious men, featuring premium shoes, accessories, and apparel with a luxury aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
